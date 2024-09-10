@@ -1,2 +1,2 @@
-# BioMesh-Paralysis-Recovery
-A biohacking project developing a programmable mesh for paralysis recovery.
+# BioMesh for Paralysis
+This project aims to develop a programmable mesh for individuals suffering from paralysis. The mesh is designed to be implanted under the skin and contract or release based on external commands. By using machine learning to control the mesh's movements, it's aimed to enable potential recovery of muscle function. A 3D simulation is being developed to visualize and test the mesh's functionality within the human body.
